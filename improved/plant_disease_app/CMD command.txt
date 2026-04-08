@@ -1,0 +1,17 @@
+G:
+cd "12 Semester\CVPR\MID\CNN_Project\improved\plant_disease_app"
+plant_env\Scripts\activate
+pip install flask torch torchvision pillow
+python app.py
+******
+* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+****************************
+
+ngrok
+
+cd "C:\Users\Qbits\Downloads\ngrok-v3-stable-windows-amd64"
+ngrok http 5000
+
+
+link 
+https://semichaotic-nomadically-frederica.ngrok-free.dev
